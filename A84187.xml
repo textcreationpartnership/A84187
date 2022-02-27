@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact and perfect relation of the proceedings of Sr Hugh Cholmly in Yorkshire, and of the taking of Captaine Canfield by the Parliaments forces, who commanded a Lancashire troop of papists. Also a true relation of a great battle fought at Tadcaster the last week, where Captaine Hotham slew and took three or foure hundred cavaliers. Likewise true information from Leeds, Mackefield, and Skipton. Also the proceedings of Sir John Seaton in Manch[e]ster. Likewise a true relation of a great battle fought neere Darby, between Mr. Hastings of Leicestershire, and Sir John Gell. Whereunto is annexed a copy of instructions sent by His Majesties great counsell, to the Lieutenants, Deputy-Lieutenants, and all other officers of every respective county of England; for the due execution of justice, the looking to the corruption of sheriffes, the enquiry after enclosures, the convicting of papists, &amp;c. And many more particulars worthy the knowledge of the Kingdome.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84187</idno>
+            <idno type="STC">Wing E3606</idno>
+            <idno type="STC">Thomason E86_27</idno>
+            <idno type="STC">ESTC R3972</idno>
+            <idno type="EEBO-CITATION">99872553</idno>
+            <idno type="PROQUEST">99872553</idno>
+            <idno type="VID">124992</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84187)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124992)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E86[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact and perfect relation of the proceedings of Sr Hugh Cholmly in Yorkshire, and of the taking of Captaine Canfield by the Parliaments forces, who commanded a Lancashire troop of papists. Also a true relation of a great battle fought at Tadcaster the last week, where Captaine Hotham slew and took three or foure hundred cavaliers. Likewise true information from Leeds, Mackefield, and Skipton. Also the proceedings of Sir John Seaton in Manch[e]ster. Likewise a true relation of a great battle fought neere Darby, between Mr. Hastings of Leicestershire, and Sir John Gell. Whereunto is annexed a copy of instructions sent by His Majesties great counsell, to the Lieutenants, Deputy-Lieutenants, and all other officers of every respective county of England; for the due execution of justice, the looking to the corruption of sheriffes, the enquiry after enclosures, the convicting of papists, &amp;c. And many more particulars worthy the knowledge of the Kingdome.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Harris,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Jan. 28, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cansfield, John, d. ca. 1648 --  Early works to 1800.</term>
+               <term>Cholmley, Hugh, --  Sir, 1600-1657 --  Early works to 1800.</term>
+               <term>Catholics --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Tadcaster (England) --  History, Military --  Early works to 1800.</term>
+               <term>Derby (England) --  History, Military --  Early works to 1800.</term>
+               <term>Yorkshire (England) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124992:1"/>
+            <pb facs="tcp:124992:1" rendition="simple:additions"/>
+            <p>An exact and perfect RELATION Of the proceedings of S<hi rend="sup">r</hi> 
+               <hi>Hugh Cholmly</hi> in <hi>Yorkeſhire,</hi> and of the taking of Captaine <hi>Canfield</hi> by the Parliaments Forces, who com<g ref="char:EOLhyphen"/>manded a Lancaſhire Troop of Papiſts</p>
+            <p>Alſo a true Relation of a great Battle fought at <hi>Tadca<g ref="char:EOLhyphen"/>ſter</hi> the laſt week, where Captaine <hi>Hotham</hi> ſlew and took three, or foure hundred Cavaliers. Likewiſe true information from <hi>Leeds, Mackefield,</hi> and <hi>Skipton.</hi> Alſo the proceedings of Sir <hi>John Seaton</hi> in <hi>Manch ſter.</hi>
+            </p>
+            <p>Likewiſe a true Relation of a great Battle fought neere <hi>Darby,</hi> between Mr. <hi>Haſtings</hi> of <hi>Leiceſterſhire,</hi> and Sir <hi>John Gell.</hi>
+            </p>
+            <p>Whereunto is annexed a Copy of Inſtructions ſent by His Ma<g ref="char:EOLhyphen"/>jeſties great Counſell, to the Lieutenants, Deputy-Lieu<g ref="char:EOLhyphen"/>tenants, and all other Officers of every reſpe<g ref="char:EOLhyphen"/>ctive County of <hi>ENGLAND;</hi>
+            </p>
+            <p>For the due execution of Juſtice, the looking to the corruption of Sheriffes, the enquiry after Enclo<g ref="char:EOLhyphen"/>ſures, the convicting of Papiſts, &amp;c.</p>
+            <p>And many more particulars worthy the knowledge of the KINGDOME.</p>
+            <p>London Printed for <hi>J. Harris, Jan.</hi> 28. 1643. <add>1642</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:124992:2"/>
+            <pb facs="tcp:124992:2"/>
+            <opener>
+               <dateline>
+                  <date>Mancheſter, Jan. 20. 1642.</date>
+               </dateline>
+            </opener>
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE laſt weeke Sir <hi>Hugh Cholmley</hi> with his Forces ſet upon 3. or 4. Troopes of Horſe 7. miles beyond <hi>Yorke,</hi> going to convoy the Armes from <hi>Newcaſtle,</hi> and killed and tooke many, and purſued them almoſt into <hi>Yorke;</hi> one of theſe Troopes was a <hi>Lancaſhire</hi> Troope, all Papiſts, the Captain, whoſe name was <hi>Canfield,</hi> taken, and the whole Troope routed; Captayne <hi>Pentham</hi> ſet upon the Forces of the Earle of Newcaſtle that lay at Tadcaſter, and it is reported ſlew and tooke 3. or foure hundred, and opened the paſſage there. Sir <hi>Thomas: Fairfax</hi> at <hi>Bradſmith</hi> Summoned the Country In upon munday laſt, who came with ſuch Courage, and Valor, almoſt incredible, and with proviſi<g ref="char:EOLhyphen"/>on in their ſnapſacks for ſix dayes, Thankes only was given them for their readineſſe, and they were diſmiſſed at that time, with Information that they ſhould be called a gaine within 3. or 4. dayes: The Lord <hi>Fairfax</hi> ſent word he would be with Sir <hi>Thomas Farifax:</hi> and if he be not come already, is expected daily with armes and ſome Ordnance: It is conceived they will ſet upon <hi>Leeds:</hi> and
+<pb n="2" facs="tcp:124992:3"/>Macfield and ſkipton, the enemies are ſo afraid they know not where to abide; we heare the Lord <hi>Saill</hi> is taken priſoner by the Earle of Newcaſtles forces, we expect to <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>re daily of the taking of <hi>Leeds</hi> and Macfield by the Lord <hi>Fairfax,</hi> and Sir <hi>Thomas Fairfax.</hi>
+            </p>
+            <p>Sir <hi>John Seaton</hi> is come to <hi>Mancheſter</hi> with ſome other Commanders, and it is ſuppoſed they will be in action preſently.</p>
+            <div type="postscript">
+               <opener>
+                  <dateline>From Darby.</dateline>
+               </opener>
+               <p>Colonell <hi>Haſtings</hi> and ſome other of quallity came againſt <hi>Darby,</hi> but Sir <hi>John Gell</hi> iſſuing forth, they retired to a bridge that was ſtrongly fortified, there they had a hot skirmiſh for two houres, the enemies being in the works, nothing but their heads appearing, and the Parlia<g ref="char:EOLhyphen"/>ments forces being without defence in the open field, yet not one man ſlaine, and but one man hurt; whereas the enemies were divers of them ſlain, and were forced from the bridge; the Parliaments forces would have purſued them, had not the enemy broke downe part of the bridge.</p>
+            </div>
+         </div>
+         <div type="list_of_instructions">
+            <pb n="3" facs="tcp:124992:3"/>
+            <head>
+               <hi>A Coppy of certain Inſtructions which</hi> Was ſent to the Deputy Lieutenants, Sheriffes, Majors, Bailiffes, Juſtices of the Peace, Headboroughs, and petty Conſtables, &amp;c. for the puniſhing of divers miſdemea<g ref="char:EOLhyphen"/>nours, and the diligent ſearching of all Recuſants houſes, for Ammunition, or other warilke Inſtruments in this time of imminent danger; with divers other particulars, as followeth.</head>
+            <list>
+               <item>1. FIrſt, whereas you are appointed to heare end, and determine betweene partie and partie, that you doe equall right betweene poore and rich, the particu<g ref="char:EOLhyphen"/>lars are left unto your ſelves as they happen in your Precincts, but ſince you are commanded to heare, end, and determine the Cauſes of the people, that you ſo heare and Order, that they may have no cauſe to complaine, ei<g ref="char:EOLhyphen"/>ther for deniall, or delay of Juſtice.</item>
+               <item>Secondly, whereas you are appointed to heare the tri<g ref="char:EOLhyphen"/>alls of offendors, wee will ſay little, for that the part of Juſtice moveth in a frame; and if all Officers under you did their parts, ſo ſhall ye walke in ſo ſtreight a path, that you would find it very hard to tread awry. Therefore you had need to heede them narrowly, leaſt they pervert Juſtice, looke to the corruptions of Sheriffes, and their Deputies, the partialitie of Jurors, the bearing and ſiding with men of countenance, and power in the Countrie; when you meete with any ſuch proceedings, you ought to be ſevere and exemplarie againſt them, otherwiſe Juſtice and Truth ſhall be over-borne, however in your own per<g ref="char:EOLhyphen"/>ſons you beare your ſelves with never ſo much uptight<g ref="char:EOLhyphen"/>neſſe.</item>
+               <pb n="4" facs="tcp:124992:4"/>
+               <item> 3. Thirdly, that you afford as much time as may bee for the finall determination of theſe buſineſſes that are moſt generall, and moſt concerne the generall and pub<g ref="char:EOLhyphen"/>lique good of this Kingdome, you are to account them as the neighbour matters of the Law, and therefore you are to take them into your prime and chiefe cure and cogita<g ref="char:EOLhyphen"/>tion.
+<list>
+                     <item>1. Now amongſt theſe things I ſhall commend unto you (in that firſt place) the preſenting and convicting of Recuſants, for as it concerneth Religion, ſo it hath relati<g ref="char:EOLhyphen"/>on to His Majeſties profits, which are two great motives, to which you may adde a third, becauſe the King hath ma<g ref="char:EOLhyphen"/>ny yeares ſince aſſigned thoſe forfeitures to the politique defence.</item>
+                     <item>2. The ſecond thing you are required, that you make a ſtrict inquiry of Incloſures, a crying ſinne, which bar<g ref="char:EOLhyphen"/>reth God of his honour, and the King of His ſubjects, you have already given in charge to enquire, but to little effect, becauſe they are commonly done by the greateſt perſons, that keepeth the Iurors under and in awe, and that is the cauſe there is no more preſented and brought in queſtion, howſoever you, charge and inquiry touching this point, have not taken effect worthy our care, and your paines; ne<g ref="char:EOLhyphen"/>vertheleſſe we will you not to ceaſe, but enquire on ſtill, for it is our reſolution againſt all oppoſition, to make all men ſee that we have a cure of this over-ſpreading evill.</item>
+                     <item>
+                        <p>3. The third thing that we mention unto you, is the re<g ref="char:EOLhyphen"/>ctifying &amp; reforming the abuſe of Ale houſes, and Tipling houſes, that none be enabled, to ſet up, or eitherto continue without licence, There are a kind of people that doe take upon them Licenſes, Recognizances, or Lawes, or what you will, and who have been a great deale the worſe,
+<pb n="5" facs="tcp:124992:4"/>becauſe they ſee great a multitude tollerated that have no Licenſe. And therefore we charge and command that none be permitted, unleſſe they be licenſed, and thoſe but few, and in fit places.</p>
+                        <p>We ſee that by falſhood of meaſure and unjuſt prizes have drawne more from the gueſt then out of the Ale and Beere of the Sizes of <hi>Holland,</hi> we meane, that the Cuſtome of Sizes of Ale and Beere in <hi>Holland,</hi> doe not mount to ſo much as the cozenage of Ale in <hi>England,</hi> we leave this to your care, that they ſwarme not by default of Juſtice.</p>
+                     </item>
+                     <item>4. The fourth thing we commend unto you, is the pu<g ref="char:EOLhyphen"/>niſhment of Vacabonds and Wanderers, which the Law hath appointed hands enough to do this worke, the Con<g ref="char:EOLhyphen"/>ſtable, Headborow, tithing-men, &amp; the reſt of the Inferior Officers, and the Watchmen, who may do all with a par<g ref="char:EOLhyphen"/>ticular Warrant from the Iuſtices of the Peace, and the Iuſtices of the Peace are bound to call to account and pu<g ref="char:EOLhyphen"/>niſh them for their neglect, if this were done as it ought to be, we are aſſured that thoſe looſe people that wander up and downe would quickly be gone, and the Lawes bet<g ref="char:EOLhyphen"/>ter obſerved for many yeeres after.</item>
+                     <item>5. The fifth thing, That the Houſe of Correction had need be looked unto, and that the Houſe of Correction be placed neere unto the Goale, and not idle perſons, but the priſoners of the Goale might be made to eat the labour of their owne hands, as it hath been formerly, which we deſire may be effected as ſoone may be.</item>
+                     <item>6. The ſixth thing you are to looke unto, is the binding forth of Apprentices, thoſe whom the Parents are not able to maintain them, ſometimes the Maſter refuſeth them, and thoſe that bind them are negligent, but all theſe muſt be over-ruled, and made to ſmart for their oppoſition.</item>
+                     <pb n="6" facs="tcp:124992:5"/>
+                     <item> 7. We have but one thing more to give you in charge; and it is a thing of great weight and importance. It con<g ref="char:EOLhyphen"/>cerneth the Honour of His Majeſty, and His Kingdome, and the ſafety of both, Chriſtendome is full of Warre, and there is nothing but rumors of warre, if the warres abroad do make us ſtand upon our guard, how much care ought we to have to prevent a civill War at home, which is now preſent, occaſioned through the Prelaticall and-Popiſh Clergy amongſt us; therefore in theſe doubt<g ref="char:EOLhyphen"/>full times, it is neceſſary that the land forces of the King<g ref="char:EOLhyphen"/>dome ſhould be ſet in order and readineſſe, and a Fleet at Sea to prevent forraigne invaſions, The dominion of the Sea, as it is an ancient and undoubted right of the Crown of <hi>England,</hi> ſo it is the ſecurity of the Land, for it is im<g ref="char:EOLhyphen"/>pregnable, ſo long as the Sea is well guarded, Therfore out of all queſtion, it is a thing of abſolute neceſſity, that the guard of the Sea be exactly looked unto, And thoſe Sub<g ref="char:EOLhyphen"/>jects, whoſe mindes are moſt fixed upon the Honour of the King and Countrey, will with no patience indure to thinke of it. That this Dominion of the Sea which is ſo great an honour, ſhould be either loſt or diminiſhed; be<g ref="char:EOLhyphen"/>ſides the ſafeties ſake, the Dominion of the Sea is to be kept, and the Sea guarded, Therefore We have found it expedient to ſet to Sea, that Fleete that is now upon the ſea, and that it is but reaſonable; that we ſhould all putour helping hands to ſecure both Sea &amp; Land, by a powerfull reſiſtance, that forraigne Nations may ſee that <hi>England</hi> is both ableand ready to keepe it ſelfe, and all its mights.</item>
+                  </list>
+               </item>
+            </list>
+            <p>This is the ſubſtance of all that We deſire might bee looked into; There are many things elſe that concern the publique, but your judgements are well knowne in them, ſo we will trouble you no further, but leave them to your grave conſiderations.</p>
+         </div>
+         <trailer>FINIS</trailer>
+      </body>
+   </text>
+</TEI>
